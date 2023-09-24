@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Metehan</h1>
 <h3 align="center">Flutter Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2WarV9tQYVcAAAAC/mobile-app-architecture-mobile-app-development.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=metehan0638&label=Profile%20views&color=0e75b6&style=flat" alt="metehan0638" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metehan0638" alt="metehan0638" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=metehan0638&label=Profile%20views&color=0e75b6&style=flat" alt="metehan0638" /> </p>
 
 - 🌱 I’m currently learning **kotlin/native apps**
 
@@ -20,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metehan0638&show_icons=true&locale=en&layout=compact" alt="metehan0638" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=metehan0638&show_icons=true&locale=en" alt="metehan0638" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metehan0638&" alt="metehan0638" /></p>
